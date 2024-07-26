@@ -1,6 +1,6 @@
 {
-  "name": "baileys",
-  "version": "6.7.5",
+  "name": "@kaykyramos/baileys",
+  "version": "6.7.6",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "homepage": "https://github.com/linkzap-ai/Baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:linkzap-ai/Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
